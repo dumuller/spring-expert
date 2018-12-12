@@ -1,0 +1,14 @@
+package com.eduardo.brewer.controller;
+
+import org.springframework.web.bind.annotation.RequestMapping;
+
+import com.eduardo.brewer.model.Cerveja;
+
+public class PessoasController {
+	
+	@RequestMapping("/pessoas/novo")
+	public String novo(Cerveja cerveja) {
+		return "cerveja/CadastroCerveja";
+	}
+
+}

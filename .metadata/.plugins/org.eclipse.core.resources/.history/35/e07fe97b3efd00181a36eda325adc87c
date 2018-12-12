@@ -1,0 +1,6 @@
+package com.eduardo.brewer.controller;
+
+@Controller
+public class UsuarioController {
+
+}

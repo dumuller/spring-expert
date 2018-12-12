@@ -1,0 +1,18 @@
+.bw-glyphicon-large{
+	font-size: 18px;
+}
+
+/*
+###############
+# COMPONENTES #
+###############
+*/
+
+/* field action */
+.bw-field-action{
+	display: flex;	
+}
+
+.bw-field-action__icon{
+	margin: 9px 0 0 5px;
+}

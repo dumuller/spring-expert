@@ -1,0 +1,13 @@
+package com.eduardo.brewer.controller;
+
+
+import com.eduardo.brewer.model.Cerveja;
+
+public class ClientesController {
+	
+	@RequestMapping("/clientes/novo")
+	public String novo(Cerveja cerveja) {
+		return "cliente/CadastroCliente";
+	}
+
+}

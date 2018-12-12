@@ -1,0 +1,15 @@
+INDEX VERSION 1.4+C:\Users\Microsys\Documents\spring-expert\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3823502274.index
+2949315033.index
+1166181011.index
+2482743787.index
+2490187126.index
+1969727592.index
+1640657428.index
+3899169182.index
+108948734.index
+1156626261.index
+171269463.index
+674215349.index
+4285047143.index
+3607560041.index
